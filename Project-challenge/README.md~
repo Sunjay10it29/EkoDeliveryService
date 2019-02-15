@@ -1,6 +1,6 @@
 ### Welcome to Eko Delivery Service Guide
-Extract project-challenge
-cd project-challenge
+###### Extract project-challenge
+###### cd project-challenge
 ```
  npm install
  node index.js
@@ -27,17 +27,17 @@ nano index.js
 
 ```
 ##### Finding path of cheapest cost
-Note: E to E case would be Zero as algorithm finds the shortestpath form start to goal
-Rest of the cases are with non-zero cost
+##### Note: E to E case would be Zero as algorithm finds the shortestpath form start to goal
+##### Rest of the cases are with non-zero cost
 
 
 ##### Note: Unit Test Guide
-Extract Project-Challenge 
-cd Project-challenge
+##### Extract Project-Challenge 
+##### cd Project-challenge
 
 ```
 npm test
 ```
-Sunjay-Kumar 
-Email: sunjay.st116605@gmail.com
-Contact #: +66 94 887 7955
+###### Sunjay-Kumar 
+###### Email: sunjay.st116605@gmail.com
+###### Contact #: +66 94 887 7955
